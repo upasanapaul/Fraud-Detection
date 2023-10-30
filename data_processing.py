@@ -1,1 +1,0 @@
-print("My first VS code in python")
